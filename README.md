@@ -1,4 +1,4 @@
-# Nathan-e-Aguinaldo-Rhian
+# Nathan-Aguinaldo-Rhian
 frase = input("Digite uma frase:")
 print(frase.upper())
 
